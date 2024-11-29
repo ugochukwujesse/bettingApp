@@ -1,0 +1,37 @@
+class AppTexts {
+  static const fantasy = "Fantasy";
+  static const matches = "Matches";
+  static const shop = "Shop";
+  static const myProfile = "My Profile";
+  static const search = "Search...";
+  static const all = "All";
+  static const epl = "EPL";
+  static const home = "Home";
+  static const laLiga = "La Liga";
+  static const serieA = "Serie A";
+  static const bundesliga = "Bundesliga";
+  static const ligue1 = "Ligue 1,";
+  static const matchDetails = "Match Details";
+  static const penalty = "Penalty";
+  static const lineup = "Line-up";
+  static const overview = "Overview";
+  static const statistics = "Statistics";
+  static const watchHighlight = "Watch Highlight";
+  static const pOTM = "Player Of The Match";
+  static const lMM = "Live Match Momentum";
+  static const mp = "MP";
+  static const w = "W";
+  static const d = "D";
+  static const l = "L";
+  static const ga = "GA";
+  static const gf = "GF";
+  static const pt = "Pt";
+  static const liveMatchStanding = "Live Match Standings";
+  static const gameInformation = "Game Information";
+  static const venue = "Venue";
+  static const date = "Date";
+  static const time = "Time";
+  static const referee = "Referee";
+  static const stadiumCapacity = "Stadium Capacity";
+  static const matchCurrentStats = "Match Current Stat";
+}
